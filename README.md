@@ -40,9 +40,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 For questions or feedback, please contact Saidi Imane at imanesaidi.ensa.agadir@gmail.com
 ```
-
-Replace `[Your Name]` and `[your.email@example.com]` with your actual information.
-
-Remember to create a LICENSE.md file and potentially a CONTRIBUTING.md file if you have specific contribution guidelines.
-
-Now, you can create a new repository on GitHub, copy the provided README content, and commit your code to the repository.
